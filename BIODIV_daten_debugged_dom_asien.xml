@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<daten>
+
+<Tier>
+    <name typ="str">Elefant</name>
+    <bild typ="str">http://content63.eol.org/content/2011/11/02/00/10093_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist grau</merkmal>
+    	<merkmal typ="str">Das Tier hat große Ohren</merkmal>
+    	<merkmal typ="str">Das Tier ist eines der schwersten am Land lebenden Säugetiere </merkmal>
+	<merkmal typ="str">Das älteste dieser Tiere wurde 86 Jahre alt</merkmal>
+	<merkmal typ="str">Das Tier lebt in der Savanne</merkmal>
+    	<merkmal typ="str">Das Tier kann man häufig im Zoo sehen</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Tiger</name>
+    <bild typ="str">http://content63.eol.org/content/2011/10/06/00/46769_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Raubtier</merkmal>
+    	<merkmal typ="str">Das Tier hat schwarze Streifen</merkmal>
+    	<merkmal typ="str">Das Tier ist vor allem in Asien verbreitet</merkmal>
+	<merkmal typ="str">Das Tier ist ca.2 Meter lang</merkmal>
+	<merkmal typ="str">Das Tier hat scharfe Reißzähne</merkmal>
+    	<merkmal typ="str">Die Häufigkeit des Tiers hat sich verringert</merkmal>
+</merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Nashorn</name>
+    <bild typ="str">http://content63.eol.org/content/2012/02/23/03/79099_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier hat einen kräftigen Körper und kurze Gliedmaßen</merkmal>
+    	<merkmal typ="str">Das Tier wiegt zwischen 500 und 3600 Kilogramm</merkmal>
+    	<merkmal typ="str">Das Tier hat meistens 2 Hörner</merkmal>
+	<merkmal typ="str">Das Tier ist mit dem Pferd verwandt</merkmal>
+	<merkmal typ="str">Das Tier hat Hautplatten, die es schützen</merkmal>
+    	<merkmal typ="str">Das Tier lebt vor allem in Afrika</merkmal>
+    	<merkmal typ="str">Das Tier ist ein Pflanzenfresser</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Kuh </name>
+    <bild typ="str">http://content60.eol.org/content/2010/11/27/02/82326_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Wiederkäuer</merkmal>
+    	<merkmal typ="str">Das weibliche Tier gibt Milch</merkmal>
+    	<merkmal typ="str">Das männliche Tier hat Hörner</merkmal>
+	<merkmal typ="str">Das Tier hat manchmal braune oder schwarze Flecken</merkmal>
+	<merkmal typ="str">Das Tier gilt in Indien als heilig</merkmal>
+    	<merkmal typ="str">Das Tier lebt häufig auf einem Bauernhof</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Eichhörnchen </name>
+    <bild typ="str">http://content63.eol.org/content/2011/08/04/17/73383_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Nagetier </merkmal>
+    	<merkmal typ="str">Das Tier hält Winterschlaf</merkmal>
+    	<merkmal typ="str">Das Tier hat einen langen buschigen Schwanz</merkmal>
+	<merkmal typ="str">Das Tier kann gut klettern</merkmal>
+	<merkmal typ="str">Das Tier isst Nüsse</merkmal>
+    	<merkmal typ="str">Der Baummarder ist ein Feind des Tiers</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Braunbär</name>
+    <bild typ="str">http://content65.eol.org/content/2012/03/05/09/58585_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier kommt in Eurasien und Nordamerika</merkmal>
+    	<merkmal typ="str">Das Tier hat einen kraftvollen Körperbau</merkmal>
+    	<merkmal typ="str">Das Tier hat ein dunkelbraunes Fell</merkmal>
+	<merkmal typ="str">Das Tier gilt als nachtaktiv</merkmal>
+	<merkmal typ="str">Das Tier ist Allesfresser</merkmal>
+    	<merkmal typ="str">Das Tier hält Winterruhe</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Natter</name>
+    <bild typ="str">http://content62.eol.org/content/2011/10/16/00/93412_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier bildet mit 1700 Arten die artenreichste Familie der Schlangen</merkmal>
+    	<merkmal typ="str">Das Tier ist ein Reptil</merkmal>
+    	<merkmal typ="str">Das Tier lebt in gemäßigten, subtropischen und tropischen Region</merkmal>
+	<merkmal typ="str">Das Tier hat große Schuppen</merkmal>
+	<merkmal typ="str">Das Tier besitzt selten Giftzähne</merkmal>
+    	<merkmal typ="str">Das Tier ernährt sich von Kleinsäugern, Vögel, Echsen, Amphibien, Fischen, Gliderfüßern und Weichtieren</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Luchs</name>
+    <bild typ="str">http://content64.eol.org/content/2009/09/15/21/49284_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier gehört zur Familie der Katzen</merkmal>
+    	<merkmal typ="str">Das Tier ist ein Jäger</merkmal>
+    	<merkmal typ="str">Das Tier kommt nur auf der Nordhalbkugel vor</merkmal>
+	<merkmal typ="str">Das Tier ist vom Aussteren bedroht</merkmal>
+	<merkmal typ="str">Das Tier hat schwarze Haarpinsel an den Spitzen der Ohren</merkmal>
+    	<merkmal typ="str">Das Tier hat einen Backenbart</merkmal>
+    </merkmale>
+</Tier>
+
+
+<Tier>
+    <name typ="str">Leopard</name>
+    <bild typ="str">http://content61.eol.org/content/2012/02/23/01/72701_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier lebt in Afrika und Asien</merkmal>
+    	<merkmal typ="str">Das Tier ist die viertgrößte Raubkatze der Welt</merkmal>
+    	<merkmal typ="str">Das Tier steht auf der Roten Liste der gefährdeten Tiere</merkmal>
+	<merkmal typ="str">Das männliche Tier wiegt 40 bis 90 Kilogramm</merkmal>
+	<merkmal typ="str">Das Tier isst Käfer, Vögel, Großsäuger und Reptilien</merkmal>
+    	<merkmal typ="str">Das Fell besitzt Rosetten</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Kakerlake</name>
+    <bild typ="str">http://content65.eol.org/content/2012/02/04/01/23255_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Insekt</merkmal>
+    	<merkmal typ="str">Das Tier hat glatte Flügel</merkmal>
+    	<merkmal typ="str">Das Tier ist dunkelbraun bis schwarz</merkmal>
+	<merkmal typ="str">Das Tier ist im Haushalt anzutreffen</merkmal>
+	<merkmal typ="str">Das Tier gilt als Ungeziefer</merkmal>
+    	<merkmal typ="str">Das Tier lebt überall am Land außer Arktis und der Antarktis</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Biber</name>
+    <bild typ="str">http://content63.eol.org/content/2009/01/08/15/94449_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Nagetier</merkmal>
+    	<merkmal typ="str">Das Tier hat einen lederartigen Schwanz</merkmal>
+    	<merkmal typ="str">Das Tier hat Schwimmhäute</merkmal>
+	<merkmal typ="str">Das Tier baut Dämme</merkmal>
+	<merkmal typ="str">Das Tier kann mit seinen Zähnen Bäume fällen</merkmal>
+    	<merkmal typ="str">Das Tier lebt in Ufernähe und bei stehenden oder fließenden Gewässer</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Otter</name>
+    <bild typ="str">http://content60.eol.org/content/2012/03/05/07/49666_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier gehört zur Familie der Marder</merkmal>
+    	<merkmal typ="str">Das Tier lebt überall außer auf abgelegenen Inseln und in Australien</merkmal>
+    	<merkmal typ="str">Das Tier kann bis zu 8 Minuten unter Wasser bleiben</merkmal>
+	<merkmal typ="str">Das Tier hat Schwimmhäute zwischen den Zehen</merkmal>
+	<merkmal typ="str">Das Tier hat einen runden Kopf</merkmal>
+    	<merkmal typ="str">Das Tier wiegt 22 bis 45 Kilogramm</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Pferd</name>
+    <bild typ="str">http://content63.eol.org/content/2011/08/04/11/45089_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Säugetier</merkmal>
+    	<merkmal typ="str">Das Tier ist ein Paarhufer</merkmal>
+    	<merkmal typ="str">Das Tier kann bis zu 450kg wiegen</merkmal>
+	<merkmal typ="str">Nur das männliche Tier hat Eckzähne</merkmal>
+	<merkmal typ="str">Das Tier ist Pflanzenfresser</merkmal>
+    	<merkmal typ="str">Mit diesem Tier wird Reitsport betrieben</merkmal>
+    </merkmale>
+</Tier>
+
+
+<Tier>
+    <name typ="str">Meerschweinchen</name>
+    <bild typ="str">http://content61.eol.org/content/2011/02/04/06/06887_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Nagetier</merkmal>
+    	<merkmal typ="str">Das Tier heißt auf Lateinisch Caviidae</merkmal>
+    	<merkmal typ="str">Das Tier ist tagaktiv</merkmal>
+	<merkmal typ="str">Das Tier hält keinen Winterschlaf</merkmal>
+	<merkmal typ="str">Das Tier hat braunes Fell</merkmal>
+    	<merkmal typ="str">Das Tier ist 20cm-130cm groß</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Esel</name>
+    <bild typ="str">http://content65.eol.org/content/2011/08/04/11/35875_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier hat 6 Lendenwirbel</merkmal>
+    	<merkmal typ="str">Das Tier ist ein Pack- und Reittier</merkmal>
+    	<merkmal typ="str">Das Tier hat graues Fell</merkmal>
+	<merkmal typ="str">Das Tier kann in Ausnahmefällen bis zu 50 kn/h schnell werden</merkmal>
+	<merkmal typ="str">Das Tier gehört zur Familie der Pferde</merkmal>
+    	<merkmal typ="str">Das Tier hat eine Stehmähne</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Maulwurf</name>
+    <bild typ="str">http://content60.eol.org/content/2009/07/24/11/57460_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier gehört zu den Landwirbeltieren</merkmal>
+    	<merkmal typ="str">Das Tier kann bis zu 6 Jahre alt werden</merkmal>
+    	<merkmal typ="str">Das Tier hat Grabhände</merkmal>
+	<merkmal typ="str">Das Tier hat schwarzes Fell</merkmal>
+	<merkmal typ="str">Das Tier ist zwischen 9g und 170g schwer</merkmal>
+    	<merkmal typ="str">Das Tier hat 34 bis 44 Zähne</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Panda</name>
+    <bild typ="str">http://content62.eol.org/content/2012/02/27/00/74008_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ernährt sich vor allem von Bambus</merkmal>
+    	<merkmal typ="str">Das Tier ist ein Katzenbär</merkmal>
+    	<merkmal typ="str">Das Tier hat ein braun-rotes Fell</merkmal>
+	<merkmal typ="str">Das Tier wird bis zu 120cm lang</merkmal>
+	<merkmal typ="str">Das Tier wiegt bis zu 6kg</merkmal>
+    	<merkmal typ="str">Das Tier schläft meist am Tag auf Astgabeln</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Gecko</name>
+    <bild typ="str">http://content62.eol.org/content/2009/09/16/00/22782_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier lebt seit ca. 50 Millionen Jahren auf der Erde</merkmal>
+    	<merkmal typ="str">Das Tier ist ein Reptil</merkmal>
+    	<merkmal typ="str">Das Tier ist nachtaktiv</merkmal>
+	<merkmal typ="str">Das Tier wohnt in den gemäßigten Zonen, der Wüste und in den Tropen</merkmal>
+	<merkmal typ="str">Das Tier hat verschiedene Färbungen</merkmal>
+    	<merkmal typ="str">Das Tier wird zwischen 1,6 und 40 cm groß</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Salamander</name>
+    <bild typ="str">http://content65.eol.org/content/2011/10/06/01/79985_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier gehört zu den Amphibien</merkmal>
+    	<merkmal typ="str">Das Tier kann entweder an Land oder im Wasser leben</merkmal>
+    	<merkmal typ="str">Das Tier hat eine nackte Haut</merkmal>
+	<merkmal typ="str">Verliert das Tier ein Körperteil, so kann dieses wieder nachwachsen</merkmal>
+	<merkmal typ="str">Das Tier kommt in Teilen von Amerika und Eurasien vor</merkmal>
+    	<merkmal typ="str">Das Tier hat einen Schwanz</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Kröte</name>
+    <bild typ="str">http://content64.eol.org/content/2009/09/15/17/40624_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier gehört zu Lurchen</merkmal>
+    	<merkmal typ="str">Das Tier hat waagrecht stehende Pupillen</merkmal>
+    	<merkmal typ="str">Das Tier hat trockene Haut, die mit warzigen Höckern übersäht ist</merkmal>
+	<merkmal typ="str">Das Tier kann verschiedene Farben haben vor allem braun und grün</merkmal>
+	<merkmal typ="str">Das Tier legt die Eier in Form von langen Laichschnüren ab</merkmal>
+    	<merkmal typ="str">Das Tier gehört zu der Familie der Kröten</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Murmeltier</name>
+    <bild typ="str">http://content64.eol.org/content/2011/11/02/00/59694_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Nagetier</merkmal>
+    	<merkmal typ="str">Das Tier wiegt zwischen 3 und 7 Kilogramm</merkmal>
+    	<merkmal typ="str">Das Tier hält Winterschlaf</merkmal>
+	<merkmal typ="str">Das Tier lebt vor allen in Gebirgen</merkmal>
+	<merkmal typ="str">Das Fell des Tiers ist meist braun</merkmal>
+    	<merkmal typ="str">Das Tier lebt in Eurasien und Nordamerika</merkmal>
+    </merkmale>
+</Tier>
+
+
+<Tier>
+    <name typ="str">Kobra</name>
+    <bild typ="str">http://content62.eol.org/content/2009/09/15/16/42462_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist eine Schlange</merkmal>
+    	<merkmal typ="str">Das Tier kann mit seinen Gift Menschen töten</merkmal>
+    	<merkmal typ="str">Das Tier wird bis zu 4 Meter lang</merkmal>
+	<merkmal typ="str">Das Tier ist hellbraun, olivbraun, braun, dunkelbraun oder schwarz gefärbt</merkmal>
+	<merkmal typ="str">Das Tier kommt vor allen in den Tropen Süd- und Südostasiens vor</merkmal>
+    	<merkmal typ="str">Das Tier hat Schuppen</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Ente</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Vogel</merkmal>
+    	<merkmal typ="str">Das Tier wird von Menschen gejagt</merkmal>
+    	<merkmal typ="str">Das Tier lebt fast überall</merkmal>
+	<merkmal typ="str">Das Tier lebt am Wasser</merkmal>
+	<merkmal typ="str">Das Tier hat ein Gefieder</merkmal>
+    	<merkmal typ="str">Das Tier hat einen breiten Schnabel</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Pelikan</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Wasservogel</merkmal>
+    	<merkmal typ="str">Das Tier hat einen dehnbaren Hautsack am Schnabel</merkmal>
+    	<merkmal typ="str">Das Tier wohnt in tropischen, subtropischen und gemäßigten Zonen</merkmal>
+	<merkmal typ="str">Das Tier wird gejagt</merkmal>
+	<merkmal typ="str">Das Tier ernährt sich vor allem von Fischen</merkmal>
+    	<merkmal typ="str">Das Tier hat einen 25 bis 47 cm langen Schnabel</merkmal>
+    </merkmale>
+</Tier>
+
+
+<Tier>
+    <name typ="str">Schmetterling</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Insekt</merkmal>
+    	<merkmal typ="str">Das Tier ist meist bunt gefärbt</merkmal>
+    	<merkmal typ="str">Das Tier ernährt sich vor allem von Blütennektar</merkmal>
+	<merkmal typ="str">Das Tier wiegt ca.150 bis 300 mg</merkmal>
+	<merkmal typ="str">Der größte Feind des Tiers ist der Vogel</merkmal>
+    	<merkmal typ="str">Viele Arten des Tiers sind gefährdet</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Biene</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Insekt</merkmal>
+    	<merkmal typ="str">Das Tier ist schwarz-gelb gestreift</merkmal>
+    	<merkmal typ="str">Das Tier hat einen Stachel</merkmal>
+	<merkmal typ="str">Das Tier stellt Honig her</merkmal>
+	<merkmal typ="str">Das Tier hat Fühler</merkmal>
+    	<merkmal typ="str">Das Tier ist vom Aussterben bedroht</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Storch</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier gehört zur Ordnung der Schreitvögel</merkmal>
+    	<merkmal typ="str">Das Tier hat lange orange-rote Beine</merkmal>
+    	<merkmal typ="str">Das Tier hat große Flügel</merkmal>
+	<merkmal typ="str">Der Legende nach bringt das Tier die Babys</merkmal>
+	<merkmal typ="str">Das Tier lebt vor allem in den Tropen</merkmal>
+    	<merkmal typ="str">Das Tier ist ein Fleischfresser</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Schildkröte</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Reptil</merkmal>
+    	<merkmal typ="str">Das Tier hat einen Panzer, der 30% des Körpergewichts ausmacht</merkmal>
+    	<merkmal typ="str">Das Tier kann sehr gut sehen</merkmal>
+	<merkmal typ="str">Das Tier lebt an Land und im Wasser</merkmal>
+	<merkmal typ="str">Das Tier ist Allesfresser</merkmal>
+    	<merkmal typ="str">Das Tier ist gefährdet</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Eule</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Vogel</merkmal>
+    	<merkmal typ="str">Das Tier ist nachtaktiv</merkmal>
+    	<merkmal typ="str">Das Tier hat einen runden Kopf</merkmal>
+	<merkmal typ="str">Das Tier kann seinen Kopf bis zu 270° drehen</merkmal>
+	<merkmal typ="str">Das Tier isst vor allem Mäuse</merkmal>
+    	<merkmal typ="str">Das Tier lebt auf allen Kontinenten, außer der Antarktis</merkmal>
+    </merkmale>
+</Tier>
+
+
+<Tier>
+    <name typ="str">Frosch</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier gehört zu den Amphibien</merkmal>
+    	<merkmal typ="str">Das Tier bewegt sich hüpfend fort</merkmal>
+    	<merkmal typ="str">Das Tier ernährt sich hauptsächlich von Insekten</merkmal>
+	<merkmal typ="str">Das Tier hat eine lange klebrige Zunge</merkmal>
+	<merkmal typ="str">Das Tier ist manchmal sehr giftig</merkmal>
+    	<merkmal typ="str">Das Tier lebt auf allen Kontinenten, außer der Antarktis</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Vogelspinne</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier gehört zu den Gliederfüßern</merkmal>
+    	<merkmal typ="str">Das Tier hat acht Beine</merkmal>
+    	<merkmal typ="str">Das größte dieser Tiere wurde bis zu 12 cm lang</merkmal>
+	<merkmal typ="str">Das Tier ist giftig</merkmal>
+	<merkmal typ="str">Das Tier fressen hauptsächlich große Insekten, wie z.B. Schaben und Grillen</merkmal>
+    	<merkmal typ="str">Das Tier gilt in Südamerika und Asien als Delikatesse</merkmal>
+    </merkmale>
+</Tier>
+
+
+<Tier>
+    <name typ="str">Viper</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Reptil</merkmal>
+    	<merkmal typ="str">Das Tier hat einen hochentwickelten Giftapparat</merkmal>
+    	<merkmal typ="str">Das Tier ist in Afrika, Amerika und Eurasien verbreitet</merkmal>
+	<merkmal typ="str">Das Tier kann je nach Art zwischen 30 cm und 3 Meter lang werden</merkmal>
+	<merkmal typ="str">Das Tier hat meist einen dreieckigen Kopf</merkmal>
+    	<merkmal typ="str">Das Tier legt Eier</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Hummel</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Insekt</merkmal>
+    	<merkmal typ="str">Das Tier mit seinen Artgenossen bildet einen Staat</merkmal>
+    	<merkmal typ="str">Das Tier hält Winterschlaf </merkmal>
+	<merkmal typ="str">Das Tier hat einen Rüssel</merkmal>
+	<merkmal typ="str">Das Tier kommt vor allem in Eurasien vor</merkmal>
+    	<merkmal typ="str">Der Körper des Tiers ist pelzartig mit Haaren bedeckt</merkmal>
+    </merkmale>
+</Tier>
+
+</daten>
+

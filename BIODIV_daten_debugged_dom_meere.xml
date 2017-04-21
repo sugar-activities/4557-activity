@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<daten>
+
+
+<Tier>
+    <name typ="str">Delfin</name>
+    <bild typ="str">http://content63.eol.org/content/2009/09/15/14/84703_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Meeressäuger</merkmal>
+    	<merkmal typ="str">Das Tier ist in allen Meeren verbreitet</merkmal>
+    	<merkmal typ="str">Das Tier kann bis zu 55 km/h schnell schwimmen</merkmal>
+	<merkmal typ="str">Das Tier lebt in Gruppen</merkmal>
+        <merkmal typ="str">Manche Arten dieses Tiers können sich per Pfeifton auseinander halten</merkmal>
+    	<merkmal typ="str">Das Tier wird, zum Beispiel in Japan, oft gejagt</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Orca</name>
+    <bild typ="str">http://content63.eol.org/content/2010/03/24/02/38549_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das männliche Tier wird bis zu 9 Meter lang</merkmal>
+    	<merkmal typ="str">Das Tier ist sehr sozial</merkmal>
+    	<merkmal typ="str">Das Tier ist ein Meeressäuger</merkmal>
+	<merkmal typ="str">Das Tier lebt vor allem im Nordatlantik, Nordpazifik und in den Polarmeeren</merkmal>
+	<merkmal typ="str">Das Tier hat keine natürlichen Feinde</merkmal>
+    	<merkmal typ="str">Das Tier ist schwarz und weiß</merkmal>
+    </merkmale>
+</Tier>
+
+
+<Tier>
+    <name typ="str">Lachs</name>
+    <bild typ="str">http://content60.eol.org/content/2010/12/04/08/21466_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein beliebter Speisefisch</merkmal>
+    	<merkmal typ="str">Das Tier hat einen ovalen Körper</merkmal>
+    	<merkmal typ="str">Das Tier lebt im Süßwasser oder ist eine Wanderart</merkmal>
+	<merkmal typ="str">Das Tier laicht im niedrigen Süßwasser</merkmal>
+	<merkmal typ="str">Das Tier wird je nach Art zwischen 12cm und 1,50 Meter lang</merkmal>
+    	<merkmal typ="str">Das Tier wird oft in Aquakulturen gezüchtet</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Oktopus</name>
+    <bild typ="str">http://content60.eol.org/content/2010/09/10/19/30530_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Kopffüßer</merkmal>
+    	<merkmal typ="str">Das Tier ernährt sich hauptsächlich von Krebstieren und Weichtieren</merkmal>
+    	<merkmal typ="str">Das Tier hat 8 Arme</merkmal>
+	<merkmal typ="str">Das Tier hat Saugnäpfe an den Armen</merkmal>
+	<merkmal typ="str">Das Tier wird von Menschen gefischt</merkmal>
+    	<merkmal typ="str">Das Tier lebt ca. 200 Meter in den Tiefen des Meeres</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Seepferdchen</name>
+    <bild typ="str">http://content65.eol.org/content/2010/11/10/10/22415_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier gehört zur Ordnung der Seenadeln</merkmal>
+    	<merkmal typ="str">Das Tier lebt in tropischen und gemäßigten Meeren</merkmal>
+    	<merkmal typ="str">Das Tier ist ein Fisch</merkmal>
+	<merkmal typ="str">Das Tier ist gefährdet</merkmal>
+	<merkmal typ="str">Das Tier fällt durch ihr ungewöhnliches Äußeres auf</merkmal>
+    	<merkmal typ="str">Der Schwanz des Tiers dient zur Verankerung an Seegras</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Schwertfisch</name>
+    <bild typ="str">http://content63.eol.org/content/2009/09/03/05/69009_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Knochenfisch</merkmal>
+    	<merkmal typ="str">Das Tier ernährt sich von anderen Fischen und Kopffüßern</merkmal>
+    	<merkmal typ="str">Das Tier lebt im offenen Ozean</merkmal>
+	<merkmal typ="str">Das Tier ist ein Speisefisch</merkmal>
+	<merkmal typ="str">Das Tier hat ein "Schwert"</merkmal>
+    	<merkmal typ="str">Das Tier kann bis zu 60 km/h schnell schwimmen</merkmal>
+    </merkmale>
+</Tier>
+
+
+<Tier>
+    <name typ="str">Hai</name>
+    <bild typ="str">http://content60.eol.org/content/2009/09/16/04/90186_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Knorpelfisch</merkmal>
+    	<merkmal typ="str">Die Zähne des Tiers wachsen immer nach</merkmal>
+    	<merkmal typ="str">Das Tier gilt als sehr gefährlich</merkmal>
+	<merkmal typ="str">Das Tier ist wahrscheinlich farbenblind</merkmal>
+	<merkmal typ="str">Das Tier lebt in allen Weltmeeren</merkmal>
+    	<merkmal typ="str">Die Flosse des Tiers wird in Asien verspeist</merkmal>
+    </merkmale>
+</Tier>
+
+
+<Tier>
+    <name typ="str">Hummer</name>
+    <bild typ="str">http://content60.eol.org/content/2011/12/09/03/08766_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Die Färbung des Tiers reicht von kräftigen Blautönen bis hin zu dunklen Violettönen</merkmal>
+    	<merkmal typ="str">Das Tier gehört zur Ordnung der Zehnfußkrebse</merkmal>
+    	<merkmal typ="str">Das Tier besitzt 2 große Scheren</merkmal>
+	<merkmal typ="str">Das Tier ist eine Delikatesse</merkmal>
+	<merkmal typ="str">Das Tier ist 30 bis 64 cm groß</merkmal>
+    	<merkmal typ="str">Das Tier wiegt zwischen 1 und 6 Kilogramm</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Blauwal</name>
+    <bild typ="str">http://content63.eol.org/content/2011/08/11/14/13623_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier lebt im Meer</merkmal>
+    	<merkmal typ="str">Das Tier ist das größten auf der Erde</merkmal>
+    	<merkmal typ="str">Das Tier wiegt bis zu 200 Tonnen</merkmal>
+	<merkmal typ="str">Das Tier ernährt sich von Plankton</merkmal>
+	<merkmal typ="str">Das Tier hat eine Maximalgeschwindigkeit von 45km/h</merkmal>
+    	<merkmal typ="str">Das Tier hat graue Haut</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Clownfisch</name>
+    <bild typ="str">http://content65.eol.org/content/2009/05/19/20/95365_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier gehört zu den Riffbarschen</merkmal>
+    	<merkmal typ="str">Das Tier hat orange Haut mit weißen Streifen</merkmal>
+    	<merkmal typ="str">Das Tier ist 7cm-16cm lang</merkmal>
+	<merkmal typ="str">Das Tier hat 28 verschiedene Arten</merkmal>
+	<merkmal typ="str">Das Tier wird oft in Aquarien gehalten</merkmal>
+    	<merkmal typ="str">Das Tier ist bei dem Film "Findet Nemo" bekannt geworden</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Piranja</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ein räuberischer Fisch</merkmal>
+    	<merkmal typ="str">Das Tier kommt in den tropischen Süßgewässern Südamerikas vor</merkmal>
+    	<merkmal typ="str">Das Tier lebt im Schwarm</merkmal>
+	<merkmal typ="str">Das Tier kann seine eigenen Wunden sehr schnell heilen</merkmal>
+	<merkmal typ="str">Das Tier wird ungefähr 15 Jahre alt</merkmal>
+    	<merkmal typ="str">Das Tier hat scharfe Zähne</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Schildkröte</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Reptil</merkmal>
+    	<merkmal typ="str">Das Tier hat einen Panzer, der 30% des Körpergewichts ausmacht</merkmal>
+    	<merkmal typ="str">Das Tier kann sehr gut sehen</merkmal>
+	<merkmal typ="str">Das Tier lebt an Land und im Wasser</merkmal>
+	<merkmal typ="str">Das Tier ist Allesfresser</merkmal>
+    	<merkmal typ="str">Das Tier ist gefährdet</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Eisbär</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier bewohnt die nördlichen Polarregionen</merkmal>
+    	<merkmal typ="str">Das Tier hat weißes Fell</merkmal>
+    	<merkmal typ="str">Das Tier kann bis zu 2,60m werden</merkmal>
+	<merkmal typ="str">Das Tier wiegt im Durchschnitt 400kg-450kg</merkmal>
+	<merkmal typ="str">Das Tier hat schwarze Haut</merkmal>
+    	<merkmal typ="str">Das Jungtier hat rosa Haut</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Pinguin</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier lebt nur auf dem Südpol</merkmal>
+    	<merkmal typ="str">Das Tier ist ein flugunfähiger Seevogel</merkmal>
+    	<merkmal typ="str">Das Tier ist ein Kiefermäuler</merkmal>
+	<merkmal typ="str">Das Tier hat ein schwarz weißes Gefieder</merkmal>
+	<merkmal typ="str">Das Tier kann sehr gut schwimmen</merkmal>
+    	<merkmal typ="str">Das Tier wird bis zu 1,20 Metern groß</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Gans</name>
+    <bild> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Vogel</merkmal>
+    	<merkmal typ="str">Das Tier hat einen sehr langen Hals</merkmal>
+    	<merkmal typ="str">Das Tier lebt oft in der Arktis</merkmal>
+	<merkmal typ="str">Das Tier ernährt sich hauptsächlich von Pflanzen</merkmal>
+	<merkmal typ="str">Die Jungen des Tiers ernähren sich von Insekten</merkmal>
+    	<merkmal typ="str">Das Tier hat ein Gefieder</merkmal>
+    </merkmale>
+</Tier>
+
+</daten>
+

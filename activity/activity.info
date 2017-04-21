@@ -1,0 +1,10 @@
+[Activity]
+name = BioDiv
+service_name = de.gym-tir.de.BioDivActivity
+bundle_id = de.gym-tir.de.BioDivActivity
+icon = BioDiv
+exec = sugar-activity BioDivActivity.BioDivActivity
+show_launcher = yes
+activity_version = 6
+mime_types = text/plain
+license = GPLv3+

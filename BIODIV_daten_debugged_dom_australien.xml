@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<daten>
+
+<Tier>
+    <name typ="str">Emu</name>
+    <bild typ="str">http://content61.eol.org/content/2012/01/14/01/98091_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein flugunfähiger Laufvogel</merkmal>
+    	<merkmal typ="str">Das Tier kommt aus Australien</merkmal>
+    	<merkmal typ="str">Das Tier wiegt 30 bis 45 Kilogramm</merkmal>
+	<merkmal typ="str">Das Tier gehört zur Klasse der Vögel</merkmal>
+	<merkmal typ="str">Die Gesichtshaut des Tiers ist schwarz und blau</merkmal>
+    	<merkmal typ="str">Das Tier legt zwischen fünf und fünfzehn Eiern</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Natter</name>
+    <bild typ="str">http://content62.eol.org/content/2011/10/16/00/93412_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier bildet mit 1700 Arten die artenreichste Familie der Schlangen</merkmal>
+    	<merkmal typ="str">Das Tier ist ein Reptil</merkmal>
+    	<merkmal typ="str">Das Tier lebt in gemäßigten, subtropischen und tropischen Region</merkmal>
+	<merkmal typ="str">Das Tier hat große Schuppen</merkmal>
+	<merkmal typ="str">Das Tier besitzt selten Giftzähne</merkmal>
+    	<merkmal typ="str">Das Tier ernährt sich von Kleinsäugern, Vögel, Echsen, Amphibien, Fischen, Gliderfüßern und Weichtieren</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Kakerlake</name>
+    <bild typ="str">http://content65.eol.org/content/2012/02/04/01/23255_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Insekt</merkmal>
+    	<merkmal typ="str">Das Tier hat glatte Flügel</merkmal>
+    	<merkmal typ="str">Das Tier ist dunkelbraun bis schwarz</merkmal>
+	<merkmal typ="str">Das Tier ist im Haushalt anzutreffen</merkmal>
+	<merkmal typ="str">Das Tier gilt als Ungeziefer</merkmal>
+    	<merkmal typ="str">Das Tier lebt überall am Land außer Arktis und der Antarktis</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Känguru</name>
+    <bild typ="str">http://content62.eol.org/content/2009/09/15/21/03472_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier lebt vor allem in Australien</merkmal>
+    	<merkmal typ="str">Das Tier hat hellbraunes Fell</merkmal>
+    	<merkmal typ="str">Das Tier ist ein Beuteltier</merkmal>
+	<merkmal typ="str">Das Tier kann bis zu 50km/h schnell werden</merkmal>
+	<merkmal typ="str">Das Tier ist Pflanzenfresser</merkmal>
+    	<merkmal typ="str">Das Tier gehört zu der Unterklasse der Beutelsäuger</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Koala</name>
+    <bild typ="str">http://content64.eol.org/content/2009/09/15/13/25324_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier hat graues Fell</merkmal>
+    	<merkmal typ="str">Das Tier ist ein Baum bewohnender Beutelsäuger</merkmal>
+    	<merkmal typ="str">Das Tier findet man am häufigsten in Australien</merkmal>
+	<merkmal typ="str">Das Tier wird bis zu 4kg und 14kg schwer</merkmal>
+	<merkmal typ="str">Das Tier lebt in Bäumen</merkmal>
+    	<merkmal typ="str">Das Tier ist ein weit verbreitetes Symbol in Australien</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Gecko</name>
+    <bild typ="str">http://content62.eol.org/content/2009/09/16/00/22782_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier lebt seit ca. 50 Millionen Jahren auf der Erde</merkmal>
+    	<merkmal typ="str">Das Tier ist ein Reptil</merkmal>
+    	<merkmal typ="str">Das Tier ist nachtaktiv</merkmal>
+	<merkmal typ="str">Das Tier wohnt in den gemäßigten Zonen, der Wüste und in den Tropen</merkmal>
+	<merkmal typ="str">Das Tier hat verschiedene Färbungen</merkmal>
+    	<merkmal typ="str">Das Tier wird zwischen 1,6 und 40 cm groß</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Kröte</name>
+    <bild typ="str">http://content64.eol.org/content/2009/09/15/17/40624_580_360.jpg</bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier gehört zu Lurchen</merkmal>
+    	<merkmal typ="str">Das Tier hat waagrecht stehende Pupillen</merkmal>
+    	<merkmal typ="str">Das Tier hat trockene Haut, die mit warzigen Höckern übersäht ist</merkmal>
+	<merkmal typ="str">Das Tier kann verschiedene Farben haben vor allem braun und grün</merkmal>
+	<merkmal typ="str">Das Tier legt die Eier in Form von langen Laichschnüren ab</merkmal>
+    	<merkmal typ="str">Das Tier gehört zu der Familie der Kröten</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Ente</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Vogel</merkmal>
+    	<merkmal typ="str">Das Tier wird von Menschen gejagt</merkmal>
+    	<merkmal typ="str">Das Tier lebt fast überall</merkmal>
+	<merkmal typ="str">Das Tier lebt am Wasser</merkmal>
+	<merkmal typ="str">Das Tier hat ein Gefieder</merkmal>
+    	<merkmal typ="str">Das Tier hat einen breiten Schnabel</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Pelikan</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Wasservogel</merkmal>
+    	<merkmal typ="str">Das Tier hat einen dehnbaren Hautsack am Schnabel</merkmal>
+    	<merkmal typ="str">Das Tier wohnt in tropischen, subtropischen und gemäßigten Zonen</merkmal>
+	<merkmal typ="str">Das Tier wird gejagt</merkmal>
+	<merkmal typ="str">Das Tier ernährt sich vor allem von Fischen</merkmal>
+    	<merkmal typ="str">Das Tier hat einen 25 bis 47 cm langen Schnabel</merkmal>
+    </merkmale>
+</Tier>
+
+
+<Tier>
+    <name typ="str">Kiwi</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein flugunfähiger Vogel</merkmal>
+    	<merkmal typ="str">Das Tier ist nachtaktiv</merkmal>
+    	<merkmal typ="str">Das Tier ist der kleinste Laufvogel</merkmal>
+	<merkmal typ="str">Das Tier hat einen langen, nach unten gebogenen Schnabel</merkmal>
+	<merkmal typ="str">Das Tier lebt in Neuseeland</merkmal>
+    	<merkmal typ="str">Das Tier ist ein Allesfresser, bevorzugt jedoch wirbellose Tiere</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Schmetterling</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Insekt</merkmal>
+    	<merkmal typ="str">Das Tier ist meist bunt gefärbt</merkmal>
+    	<merkmal typ="str">Das Tier ernährt sich vor allem von Blütennektar</merkmal>
+	<merkmal typ="str">Das Tier wiegt ca.150 bis 300 mg</merkmal>
+	<merkmal typ="str">Der größte Feind des Tiers ist der Vogel</merkmal>
+    	<merkmal typ="str">Viele Arten des Tiers sind gefährdet</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Biene</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Insekt</merkmal>
+    	<merkmal typ="str">Das Tier ist schwarz-gelb gestreift</merkmal>
+    	<merkmal typ="str">Das Tier hat einen Stachel</merkmal>
+	<merkmal typ="str">Das Tier stellt Honig her</merkmal>
+	<merkmal typ="str">Das Tier hat Fühler</merkmal>
+    	<merkmal typ="str">Das Tier ist vom Aussterben bedroht</merkmal>
+    </merkmale>
+</Tier>
+
+<Tier>
+    <name typ="str">Eule</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier ist ein Vogel</merkmal>
+    	<merkmal typ="str">Das Tier ist nachtaktiv</merkmal>
+    	<merkmal typ="str">Das Tier hat einen runden Kopf</merkmal>
+	<merkmal typ="str">Das Tier kann seinen Kopf bis zu 270° drehen</merkmal>
+	<merkmal typ="str">Das Tier isst vor allem Mäuse</merkmal>
+    	<merkmal typ="str">Das Tier lebt auf allen Kontinenten, außer der Antarktis</merkmal>
+    </merkmale>
+</Tier>
+
+
+<Tier>
+    <name typ="str">Frosch</name>
+    <bild typ="str"> </bild>
+    <merkmale>
+	<merkmal typ="str">Das Tier gehört zu den Amphibien</merkmal>
+    	<merkmal typ="str">Das Tier bewegt sich hüpfend fort</merkmal>
+    	<merkmal typ="str">Das Tier ernährt sich hauptsächlich von Insekten</merkmal>
+	<merkmal typ="str">Das Tier hat eine lange klebrige Zunge</merkmal>
+	<merkmal typ="str">Das Tier ist manchmal sehr giftig</merkmal>
+    	<merkmal typ="str">Das Tier lebt auf allen Kontinenten, außer der Antarktis</merkmal>
+    </merkmale>
+</Tier>
+
+</daten>
+
